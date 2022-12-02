@@ -1,0 +1,32 @@
+{
+	"storyName": "P0c0yo0 & Fr13nd5",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "PibbyPocoyo",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		181,
+		49,
+		32
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Can You",
+			"ppocoyo",
+			[
+				73,
+				38,
+				218
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"pbg",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": ""
+}
