@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="brighten.png">
+<SubTexture name="bLACK idle0000" x="0" y="0" width="657" height="368" frameX="0" frameY="0" frameWidth="657" frameHeight="368" />
+<SubTexture name="bLACK idle0001" x="0" y="0" width="657" height="368" frameX="0" frameY="0" frameWidth="657" frameHeight="368" />
+<SubTexture name="bLACK idle0002" x="0" y="0" width="657" height="368" frameX="0" frameY="0" frameWidth="657" frameHeight="368" />
+<SubTexture name="bLACK idle0003" x="0" y="0" width="657" height="368" frameX="0" frameY="0" frameWidth="657" frameHeight="368" />
+<SubTexture name="bLACK idle0004" x="0" y="0" width="657" height="368" frameX="0" frameY="0" frameWidth="657" frameHeight="368" />
+<SubTexture name="brighten ing0000" x="0" y="0" width="657" height="368" frameX="0" frameY="0" frameWidth="657" frameHeight="368" />
+<SubTexture name="brighten ing0001" x="657" y="0" width="657" height="368" frameX="0" frameY="0" frameWidth="657" frameHeight="368" />
+<SubTexture name="brighten ing0002" x="1314" y="0" width="657" height="368" frameX="0" frameY="0" frameWidth="657" frameHeight="368" />
+<SubTexture name="brighten ing0003" x="1971" y="0" width="657" height="368" frameX="0" frameY="0" frameWidth="657" frameHeight="368" />
+<SubTexture name="brighten ing0004" x="0" y="368" width="657" height="368" frameX="0" frameY="0" frameWidth="657" frameHeight="368" />
+<SubTexture name="brighten ing0005" x="657" y="368" width="657" height="368" frameX="0" frameY="0" frameWidth="657" frameHeight="368" />
+<SubTexture name="brighten ing0006" x="1314" y="368" width="657" height="368" frameX="0" frameY="0" frameWidth="657" frameHeight="368" />
+<SubTexture name="brighten ing0007" x="1971" y="368" width="657" height="368" frameX="0" frameY="0" frameWidth="657" frameHeight="368" />
+<SubTexture name="brighten ing0008" x="0" y="736" width="657" height="368" frameX="0" frameY="0" frameWidth="657" frameHeight="368" />
+<SubTexture name="brighten ing0009" x="657" y="736" width="657" height="368" frameX="0" frameY="0" frameWidth="657" frameHeight="368" />
+<SubTexture name="brighten ing0010" x="1314" y="736" width="657" height="368" frameX="0" frameY="0" frameWidth="657" frameHeight="368" />
+<SubTexture name="brighten ing0011" x="1971" y="736" width="657" height="368" frameX="0" frameY="0" frameWidth="657" frameHeight="368" />
+<SubTexture name="brighten ing0012" x="0" y="1104" width="657" height="368" frameX="0" frameY="0" frameWidth="657" frameHeight="368" />
+<SubTexture name="brighten ing0013" x="657" y="1104" width="657" height="368" frameX="0" frameY="0" frameWidth="657" frameHeight="368" />
+<SubTexture name="brighten ing0014" x="1314" y="1104" width="657" height="368" frameX="0" frameY="0" frameWidth="657" frameHeight="368" />
+<SubTexture name="brighten ing0015" x="1971" y="1104" width="657" height="368" frameX="0" frameY="0" frameWidth="657" frameHeight="368" />
+<SubTexture name="brighten ing0016" x="0" y="1472" width="657" height="368" frameX="0" frameY="0" frameWidth="657" frameHeight="368" />
+<SubTexture name="brighten ing0017" x="657" y="1472" width="657" height="368" frameX="0" frameY="0" frameWidth="657" frameHeight="368" />
+<SubTexture name="brighten ing0018" x="657" y="1472" width="657" height="368" frameX="0" frameY="0" frameWidth="657" frameHeight="368" />
+<SubTexture name="brighten ing0019" x="657" y="1472" width="657" height="368" frameX="0" frameY="0" frameWidth="657" frameHeight="368" />
+<SubTexture name="brighten ing0020" x="657" y="1472" width="657" height="368" frameX="0" frameY="0" frameWidth="657" frameHeight="368" />
+<SubTexture name="brighten ing0021" x="657" y="1472" width="657" height="368" frameX="0" frameY="0" frameWidth="657" frameHeight="368" />
+<SubTexture name="brighten ing0022" x="657" y="1472" width="657" height="368" frameX="0" frameY="0" frameWidth="657" frameHeight="368" />
+<SubTexture name="brighten ing0023" x="657" y="1472" width="657" height="368" frameX="0" frameY="0" frameWidth="657" frameHeight="368" />
+<SubTexture name="brighten ing0024" x="657" y="1472" width="657" height="368" frameX="0" frameY="0" frameWidth="657" frameHeight="368" />
+<SubTexture name="brighten ing0025" x="657" y="1472" width="657" height="368" frameX="0" frameY="0" frameWidth="657" frameHeight="368" />
+<SubTexture name="brighten ing0026" x="657" y="1472" width="657" height="368" frameX="0" frameY="0" frameWidth="657" frameHeight="368" />
+<SubTexture name="brighten ing0027" x="657" y="1472" width="657" height="368" frameX="0" frameY="0" frameWidth="657" frameHeight="368" />
+</TextureAtlas>

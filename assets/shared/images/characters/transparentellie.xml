@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pibbyellie.png">
+<SubTexture name="0 Idle0000" x="0" y="0" width="1054" height="1004" frameX="0" frameY="0" frameWidth="1054" frameHeight="1004" />
+<SubTexture name="0 Idle0001" x="1054" y="0" width="1054" height="1004" frameX="0" frameY="0" frameWidth="1054" frameHeight="1004" />
+<SubTexture name="0 Idle0002" x="2108" y="0" width="1054" height="1004" frameX="0" frameY="0" frameWidth="1054" frameHeight="1004" />
+<SubTexture name="0 Idle0003" x="3162" y="0" width="1054" height="1004" frameX="0" frameY="0" frameWidth="1054" frameHeight="1004" />
+<SubTexture name="0 Idle0004" x="4216" y="0" width="1054" height="1004" frameX="0" frameY="0" frameWidth="1054" frameHeight="1004" />
+<SubTexture name="0 Idle0005" x="5270" y="0" width="1054" height="1004" frameX="0" frameY="0" frameWidth="1054" frameHeight="1004" />
+<SubTexture name="0 Idle0006" x="0" y="1004" width="1054" height="1004" frameX="0" frameY="0" frameWidth="1054" frameHeight="1004" />
+<SubTexture name="0 Idle0007" x="1054" y="1004" width="1054" height="1004" frameX="0" frameY="0" frameWidth="1054" frameHeight="1004" />
+<SubTexture name="0 Idle0008" x="2108" y="1004" width="1054" height="1004" frameX="0" frameY="0" frameWidth="1054" frameHeight="1004" />
+<SubTexture name="0 Idle0009" x="3162" y="1004" width="1054" height="1004" frameX="0" frameY="0" frameWidth="1054" frameHeight="1004" />
+<SubTexture name="0 Idle0010" x="4216" y="1004" width="1054" height="1004" frameX="0" frameY="0" frameWidth="1054" frameHeight="1004" />
+</TextureAtlas>

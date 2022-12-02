@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pibbypato.png">
+<SubTexture name="Idle0000" x="17" y="78" width="392" height="435"/>
+<SubTexture name="Idle0001" x="410" y="78" width="396" height="436"/>
+<SubTexture name="Idle0002" x="805" y="50" width="391" height="463"/>
+<SubTexture name="Zap0000" x="46" y="550" width="837" height="471" frameX="0" frameY="0" frameWidth="1614" frameHeight="924" />
+<SubTexture name="Zap0001" x="1050" y="546" width="875" height="523" frameX="0" frameY="0" frameWidth="1614" frameHeight="924" />
+<SubTexture name="Zap0002" x="60" y="1067" width="956" height="459" frameX="0" frameY="0" frameWidth="1614" frameHeight="924" />
+<SubTexture name="Zap0003" x="1041" y="1070" width="899" height="480" frameX="0" frameY="0" frameWidth="1614" frameHeight="924" />
+<SubTexture name="Zap0004" x="2016" y="1064" width="603" height="471" frameX="0" frameY="0" frameWidth="1614" frameHeight="924" />
+<SubTexture name="Zap0005" x="1290" y="38" width="517" height="476" frameX="0" frameY="0" frameWidth="1614" frameHeight="924" />
+<SubTexture name="Zap0006" x="1840" y="67" width="512" height="472" frameX="0" frameY="0" frameWidth="1614" frameHeight="924" />
+</TextureAtlas>

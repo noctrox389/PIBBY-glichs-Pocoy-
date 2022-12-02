@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pocoyo hit his griddy too hard and now hes after the other griddys.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down0000" x="19" y="24" width="275" height="261"/>
+	<SubTexture name="Down0001" x="343" y="10" width="279" height="273"/>
+	<SubTexture name="Idle0000" x="0" y="322" width="364" height="372"/>
+	<SubTexture name="Idle0001" x="391" y="323" width="364" height="371"/>
+	<SubTexture name="Idle0002" x="784" y="310" width="358" height="384"/>
+	<SubTexture name="Idle0003" x="1177" y="310" width="355" height="385"/>
+	<SubTexture name="Idle0004" x="1567" y="300" width="355" height="393"/>
+	<SubTexture name="Left0000" x="51" y="732" width="292" height="356"/>
+	<SubTexture name="Left0001" x="361" y="732" width="296" height="356"/>
+	<SubTexture name="Right0000" x="713" y="716" width="348" height="364"/>
+	<SubTexture name="Right0001" x="1070" y="716" width="350" height="362"/>
+	<SubTexture name="Up0000" x="1430" y="715" width="276" height="481"/>
+	<SubTexture name="Up0001" x="1713" y="743" width="274" height="445"/>
+</TextureAtlas>
