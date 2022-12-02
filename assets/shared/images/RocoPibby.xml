@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RocoPibby.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pibby idle0000" x="0" y="0" width="886" height="986"/>
+	<SubTexture name="pibby idle0001" x="0" y="0" width="886" height="986"/>
+	<SubTexture name="pibby idle0002" x="886" y="0" width="886" height="986"/>
+	<SubTexture name="pibby idle0003" x="886" y="0" width="886" height="986"/>
+	<SubTexture name="pibby idle0004" x="1772" y="0" width="886" height="986"/>
+	<SubTexture name="pibby idle0005" x="1772" y="0" width="886" height="986"/>
+	<SubTexture name="pibby idle0006" x="2658" y="0" width="886" height="986"/>
+	<SubTexture name="pibby idle0007" x="2658" y="0" width="886" height="986"/>
+	<SubTexture name="pibby idle0008" x="0" y="986" width="886" height="986"/>
+	<SubTexture name="pibby idle0009" x="0" y="986" width="886" height="986"/>
+	<SubTexture name="pibby idle0010" x="0" y="986" width="886" height="986"/>
+</TextureAtlas>

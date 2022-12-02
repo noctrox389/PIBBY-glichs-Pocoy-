@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg mfs.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg mfs0000" x="0" y="0" width="1962" height="521"/>
+	<SubTexture name="bg mfs0001" x="0" y="0" width="1962" height="521"/>
+	<SubTexture name="bg mfs0002" x="1962" y="0" width="1962" height="521"/>
+	<SubTexture name="bg mfs0003" x="1962" y="0" width="1962" height="521"/>
+	<SubTexture name="bg mfs0004" x="0" y="521" width="1962" height="521"/>
+	<SubTexture name="bg mfs0005" x="0" y="521" width="1962" height="521"/>
+	<SubTexture name="bg mfs0006" x="1962" y="521" width="1962" height="521"/>
+	<SubTexture name="bg mfs0007" x="1962" y="521" width="1962" height="521"/>
+	<SubTexture name="bg mfs0008" x="0" y="1042" width="1962" height="521"/>
+	<SubTexture name="bg mfs0009" x="0" y="1042" width="1962" height="521"/>
+	<SubTexture name="bg mfs0010" x="0" y="1042" width="1962" height="521"/>
+</TextureAtlas>
