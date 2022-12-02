@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				76,
+				46
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "huh",
+			"indices": [],
+			"name": "huh"
+		},
+		{
+			"offsets": [
+				159,
+				48
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "mon",
+			"indices": [],
+			"name": "mon"
+		},
+		{
+			"offsets": [
+				181,
+				48
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "ster",
+			"indices": [],
+			"name": "ster"
+		},
+		{
+			"offsets": [
+				180,
+				12
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "diesxd",
+			"indices": [],
+			"name": "pNONKJSBKBSKBJAJKGOGUOAO"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/pocoyostartup",
+	"position": [
+		0,
+		180
+	],
+	"healthicon": "transparent",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-80,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

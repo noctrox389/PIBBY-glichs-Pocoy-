@@ -1,0 +1,213 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-75
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "0 Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				-70
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "0 Right",
+			"indices": [
+				0,
+				2,
+				3,
+				4,
+				4,
+				5,
+				5,
+				6,
+				6,
+				7,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				172
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "0 Up",
+			"indices": [
+				0,
+				2,
+				3,
+				4,
+				4,
+				5,
+				5,
+				6,
+				6,
+				7,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "0 Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				242,
+				90
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "0 Left",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				4,
+				5,
+				5,
+				6,
+				6,
+				7,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				-177
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "0 Down",
+			"indices": [
+				0,
+				2,
+				3,
+				4,
+				4,
+				5,
+				5,
+				6,
+				6,
+				7,
+				7
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 12,
+			"name": "0 Idle",
+			"indices": [
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				35,
+				-155
+			],
+			"anim": "singDOWN-loop",
+			"fps": 12,
+			"name": "0 Down0",
+			"indices": [
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				70,
+				300
+			],
+			"anim": "singUP-loop",
+			"fps": 12,
+			"name": "0 Up0",
+			"indices": [
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				330,
+				190
+			],
+			"anim": "singLEFT-loop",
+			"fps": 12,
+			"name": "0 Left0",
+			"indices": [
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"offsets": [
+				25,
+				-70
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				5,
+				6,
+				7
+			],
+			"name": "0 Right0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pibbyellie",
+	"position": [
+		60,
+		255
+	],
+	"healthicon": "pelly",
+	"flip_x": false,
+	"healthbar_colors": [
+		251,
+		93,
+		159
+	],
+	"camera_position": [
+		-345,
+		-340
+	],
+	"sing_duration": 4,
+	"scale": 1.35
+}

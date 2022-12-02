@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bLACK idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "fading",
+			"indices": [],
+			"name": "brighten ing"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/brighten",
+	"position": [
+		-130,
+		-460
+	],
+	"healthicon": "transparent",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-1000,
+		-300
+	],
+	"sing_duration": 4,
+	"scale": 10
+}

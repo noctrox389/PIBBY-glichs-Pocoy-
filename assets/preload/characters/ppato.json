@@ -1,0 +1,141 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				8,
+				8,
+				9,
+				9,
+				10,
+				10
+			],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle-loop",
+			"indices": [
+				8,
+				9,
+				10
+			],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				135,
+				45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				4,
+				5,
+				5,
+				6,
+				6,
+				7,
+				7
+			],
+			"name": "Zap"
+		},
+		{
+			"offsets": [
+				70,
+				13
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "attack-loop",
+			"indices": [
+				5,
+				6,
+				7
+			],
+			"name": "Zap0"
+		},
+		{
+			"offsets": [
+				135,
+				45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "finn slash",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				4,
+				5,
+				5,
+				6,
+				6,
+				7,
+				7
+			],
+			"name": "Zap"
+		},
+		{
+			"offsets": [
+				135,
+				45
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "finn slash-loop",
+			"indices": [
+				5,
+				6,
+				7
+			],
+			"name": "Zap0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pibbypato",
+	"position": [
+		120,
+		190
+	],
+	"healthicon": "ppocoyo",
+	"flip_x": false,
+	"healthbar_colors": [
+		53,
+		156,
+		251
+	],
+	"camera_position": [
+		60,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 1.15
+}

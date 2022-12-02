@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				-55
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "DogeBoy",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				-2
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "Hurt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				35
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Bf Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				-35
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Bf Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Bf Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/survivor_bf",
+	"position": [
+		-95,
+		250
+	],
+	"healthicon": "sbf",
+	"flip_x": true,
+	"healthbar_colors": [
+		73,
+		28,
+		178
+	],
+	"camera_position": [
+		-50,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 0.95
+}
